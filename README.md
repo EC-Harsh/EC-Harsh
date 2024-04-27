@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="(https://github.com/account)"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/135134626?v=4"  />
 
 ###
 
@@ -44,5 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EC-Harsh/EC-Harsh/output/snake.svg" alt="Snake animation" />
 
