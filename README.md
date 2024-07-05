@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a BCA Student, from Prayagraj
+<h2 align="left">Hi 👋! My name is Harsh and I'm a BCA Student.
 
 ###
 
